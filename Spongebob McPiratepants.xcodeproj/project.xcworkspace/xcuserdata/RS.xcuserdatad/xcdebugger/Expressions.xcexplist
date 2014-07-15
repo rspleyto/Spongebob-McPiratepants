@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[BPTileFactory initializeArmorList]:BPTileFactory.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.armorList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BPTileFactory createTileMap]:BPTileFactory.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.tileList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BPTileFactory initializeWeaponList]:BPTileFactory.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.weaponList">
+            </PersistentString>
+            <PersistentString
+               value = "self.utility">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BPTileFactory initializeTileList]:BPTileFactory.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

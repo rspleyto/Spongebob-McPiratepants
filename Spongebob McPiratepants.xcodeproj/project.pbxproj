@@ -7,6 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5302BE5F1961B44800B48C7A /* Squidward Mind Control.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5302BE5E1961B44800B48C7A /* Squidward Mind Control.jpg */; };
+		5302BE611961B4FF00B48C7A /* Sea Rhinoceros.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5302BE601961B4FF00B48C7A /* Sea Rhinoceros.jpeg */; };
+		5302BE631961B61000B48C7A /* Spongebob Parents.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5302BE621961B61000B48C7A /* Spongebob Parents.jpg */; };
+		5302BE651961B71B00B48C7A /* Sandy Karate.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5302BE641961B71B00B48C7A /* Sandy Karate.jpg */; };
+		5302BE671961B9A100B48C7A /* Patrick Jellyfish Net.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5302BE661961B9A100B48C7A /* Patrick Jellyfish Net.jpg */; };
+		53084BE0195FE9CF00A20251 /* Spongebob Intro.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 53084BDF195FE9CF00A20251 /* Spongebob Intro.jpg */; };
+		53084BE2196037E600A20251 /* Goofy Goober.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 53084BE1196037E600A20251 /* Goofy Goober.jpg */; };
+		538562A0195ED269007432B3 /* BPTile.m in Sources */ = {isa = PBXBuildFile; fileRef = 5385629F195ED269007432B3 /* BPTile.m */; };
+		538562A3195ED666007432B3 /* BPItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 538562A2195ED666007432B3 /* BPItem.m */; };
+		538562A6195ED6BD007432B3 /* BPWeapon.m in Sources */ = {isa = PBXBuildFile; fileRef = 538562A5195ED6BD007432B3 /* BPWeapon.m */; };
+		538562A9195ED6FF007432B3 /* BPArmor.m in Sources */ = {isa = PBXBuildFile; fileRef = 538562A8195ED6FF007432B3 /* BPArmor.m */; };
+		538562AC195ED86A007432B3 /* BPCharacter.m in Sources */ = {isa = PBXBuildFile; fileRef = 538562AB195ED86A007432B3 /* BPCharacter.m */; };
+		538562AF195EDAF5007432B3 /* BPTileFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 538562AE195EDAF5007432B3 /* BPTileFactory.m */; };
+		538562B2195F1BFF007432B3 /* BPUtility.m in Sources */ = {isa = PBXBuildFile; fileRef = 538562B1195F1BFF007432B3 /* BPUtility.m */; };
 		53909C301955CF7300EA86B2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 53909C2F1955CF7300EA86B2 /* Foundation.framework */; };
 		53909C321955CF7300EA86B2 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 53909C311955CF7300EA86B2 /* CoreGraphics.framework */; };
 		53909C341955CF7300EA86B2 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 53909C331955CF7300EA86B2 /* UIKit.framework */; };
@@ -21,6 +35,14 @@
 		53909C511955CF7400EA86B2 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 53909C331955CF7300EA86B2 /* UIKit.framework */; };
 		53909C591955CF7400EA86B2 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 53909C571955CF7400EA86B2 /* InfoPlist.strings */; };
 		53909C5B1955CF7400EA86B2 /* Spongebob_McPiratepantsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 53909C5A1955CF7400EA86B2 /* Spongebob_McPiratepantsTests.m */; };
+		53AF969419642DFF009909A8 /* Dennis Enemy.png in Resources */ = {isa = PBXBuildFile; fileRef = 53AF969319642DFF009909A8 /* Dennis Enemy.png */; };
+		53AF969619642F25009909A8 /* Mindy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 53AF969519642F25009909A8 /* Mindy.jpg */; };
+		53AF969819642FBE009909A8 /* Squilliam Fancyson.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 53AF969719642FBE009909A8 /* Squilliam Fancyson.jpg */; };
+		53AF969A1964306E009909A8 /* Band Uniform.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 53AF96991964306E009909A8 /* Band Uniform.jpg */; };
+		53AF969C196436D1009909A8 /* David Hasselhoff.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 53AF969B196436D1009909A8 /* David Hasselhoff.jpg */; };
+		53AF969E196437B7009909A8 /* Shell City.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 53AF969D196437B7009909A8 /* Shell City.jpg */; };
+		53AF96A0196443C0009909A8 /* Spongebob.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 53AF969F196443C0009909A8 /* Spongebob.jpg */; };
+		53AF96A21964452C009909A8 /* Plankton Boss.png in Resources */ = {isa = PBXBuildFile; fileRef = 53AF96A11964452C009909A8 /* Plankton Boss.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +56,27 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5302BE5E1961B44800B48C7A /* Squidward Mind Control.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Squidward Mind Control.jpg"; sourceTree = "<group>"; };
+		5302BE601961B4FF00B48C7A /* Sea Rhinoceros.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Sea Rhinoceros.jpeg"; sourceTree = "<group>"; };
+		5302BE621961B61000B48C7A /* Spongebob Parents.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Spongebob Parents.jpg"; sourceTree = "<group>"; };
+		5302BE641961B71B00B48C7A /* Sandy Karate.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Sandy Karate.jpg"; sourceTree = "<group>"; };
+		5302BE661961B9A100B48C7A /* Patrick Jellyfish Net.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Patrick Jellyfish Net.jpg"; sourceTree = "<group>"; };
+		53084BDF195FE9CF00A20251 /* Spongebob Intro.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Spongebob Intro.jpg"; sourceTree = "<group>"; };
+		53084BE1196037E600A20251 /* Goofy Goober.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Goofy Goober.jpg"; sourceTree = "<group>"; };
+		5385629E195ED269007432B3 /* BPTile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BPTile.h; sourceTree = "<group>"; };
+		5385629F195ED269007432B3 /* BPTile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BPTile.m; sourceTree = "<group>"; };
+		538562A1195ED666007432B3 /* BPItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BPItem.h; sourceTree = "<group>"; };
+		538562A2195ED666007432B3 /* BPItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BPItem.m; sourceTree = "<group>"; };
+		538562A4195ED6BD007432B3 /* BPWeapon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BPWeapon.h; sourceTree = "<group>"; };
+		538562A5195ED6BD007432B3 /* BPWeapon.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BPWeapon.m; sourceTree = "<group>"; };
+		538562A7195ED6FF007432B3 /* BPArmor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BPArmor.h; sourceTree = "<group>"; };
+		538562A8195ED6FF007432B3 /* BPArmor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BPArmor.m; sourceTree = "<group>"; };
+		538562AA195ED86A007432B3 /* BPCharacter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BPCharacter.h; sourceTree = "<group>"; };
+		538562AB195ED86A007432B3 /* BPCharacter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BPCharacter.m; sourceTree = "<group>"; };
+		538562AD195EDAF5007432B3 /* BPTileFactory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BPTileFactory.h; sourceTree = "<group>"; };
+		538562AE195EDAF5007432B3 /* BPTileFactory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BPTileFactory.m; sourceTree = "<group>"; };
+		538562B0195F1BFF007432B3 /* BPUtility.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BPUtility.h; sourceTree = "<group>"; };
+		538562B1195F1BFF007432B3 /* BPUtility.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BPUtility.m; sourceTree = "<group>"; };
 		53909C2C1955CF7300EA86B2 /* Spongebob McPiratepants.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Spongebob McPiratepants.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		53909C2F1955CF7300EA86B2 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		53909C311955CF7300EA86B2 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -53,6 +96,14 @@
 		53909C561955CF7400EA86B2 /* Spongebob McPiratepantsTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Spongebob McPiratepantsTests-Info.plist"; sourceTree = "<group>"; };
 		53909C581955CF7400EA86B2 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		53909C5A1955CF7400EA86B2 /* Spongebob_McPiratepantsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Spongebob_McPiratepantsTests.m; sourceTree = "<group>"; };
+		53AF969319642DFF009909A8 /* Dennis Enemy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Dennis Enemy.png"; sourceTree = "<group>"; };
+		53AF969519642F25009909A8 /* Mindy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Mindy.jpg; sourceTree = "<group>"; };
+		53AF969719642FBE009909A8 /* Squilliam Fancyson.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Squilliam Fancyson.jpg"; sourceTree = "<group>"; };
+		53AF96991964306E009909A8 /* Band Uniform.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Band Uniform.jpg"; sourceTree = "<group>"; };
+		53AF969B196436D1009909A8 /* David Hasselhoff.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "David Hasselhoff.jpg"; sourceTree = "<group>"; };
+		53AF969D196437B7009909A8 /* Shell City.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Shell City.jpg"; sourceTree = "<group>"; };
+		53AF969F196443C0009909A8 /* Spongebob.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Spongebob.jpg; sourceTree = "<group>"; };
+		53AF96A11964452C009909A8 /* Plankton Boss.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Plankton Boss.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +168,20 @@
 				53909C411955CF7300EA86B2 /* Main.storyboard */,
 				53909C441955CF7300EA86B2 /* BPViewController.h */,
 				53909C451955CF7300EA86B2 /* BPViewController.m */,
+				5385629E195ED269007432B3 /* BPTile.h */,
+				5385629F195ED269007432B3 /* BPTile.m */,
+				538562A1195ED666007432B3 /* BPItem.h */,
+				538562A2195ED666007432B3 /* BPItem.m */,
+				538562A4195ED6BD007432B3 /* BPWeapon.h */,
+				538562A5195ED6BD007432B3 /* BPWeapon.m */,
+				538562A7195ED6FF007432B3 /* BPArmor.h */,
+				538562A8195ED6FF007432B3 /* BPArmor.m */,
+				538562AA195ED86A007432B3 /* BPCharacter.h */,
+				538562AB195ED86A007432B3 /* BPCharacter.m */,
+				538562AD195EDAF5007432B3 /* BPTileFactory.h */,
+				538562AE195EDAF5007432B3 /* BPTileFactory.m */,
+				538562B0195F1BFF007432B3 /* BPUtility.h */,
+				538562B1195F1BFF007432B3 /* BPUtility.m */,
 				53909C471955CF7300EA86B2 /* Images.xcassets */,
 				53909C361955CF7300EA86B2 /* Supporting Files */,
 			);
@@ -126,6 +191,21 @@
 		53909C361955CF7300EA86B2 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				53AF96A11964452C009909A8 /* Plankton Boss.png */,
+				53AF969F196443C0009909A8 /* Spongebob.jpg */,
+				53AF969D196437B7009909A8 /* Shell City.jpg */,
+				53AF969B196436D1009909A8 /* David Hasselhoff.jpg */,
+				53AF96991964306E009909A8 /* Band Uniform.jpg */,
+				53AF969719642FBE009909A8 /* Squilliam Fancyson.jpg */,
+				53AF969519642F25009909A8 /* Mindy.jpg */,
+				53AF969319642DFF009909A8 /* Dennis Enemy.png */,
+				5302BE661961B9A100B48C7A /* Patrick Jellyfish Net.jpg */,
+				5302BE641961B71B00B48C7A /* Sandy Karate.jpg */,
+				5302BE621961B61000B48C7A /* Spongebob Parents.jpg */,
+				5302BE601961B4FF00B48C7A /* Sea Rhinoceros.jpeg */,
+				53084BE1196037E600A20251 /* Goofy Goober.jpg */,
+				53084BDF195FE9CF00A20251 /* Spongebob Intro.jpg */,
+				5302BE5E1961B44800B48C7A /* Squidward Mind Control.jpg */,
 				53909C371955CF7300EA86B2 /* Spongebob McPiratepants-Info.plist */,
 				53909C381955CF7300EA86B2 /* InfoPlist.strings */,
 				53909C3B1955CF7300EA86B2 /* main.m */,
@@ -229,9 +309,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5302BE631961B61000B48C7A /* Spongebob Parents.jpg in Resources */,
 				53909C481955CF7300EA86B2 /* Images.xcassets in Resources */,
+				5302BE611961B4FF00B48C7A /* Sea Rhinoceros.jpeg in Resources */,
+				53AF969819642FBE009909A8 /* Squilliam Fancyson.jpg in Resources */,
+				53084BE0195FE9CF00A20251 /* Spongebob Intro.jpg in Resources */,
+				5302BE5F1961B44800B48C7A /* Squidward Mind Control.jpg in Resources */,
 				53909C3A1955CF7300EA86B2 /* InfoPlist.strings in Resources */,
+				53AF969C196436D1009909A8 /* David Hasselhoff.jpg in Resources */,
+				53AF96A21964452C009909A8 /* Plankton Boss.png in Resources */,
+				53AF96A0196443C0009909A8 /* Spongebob.jpg in Resources */,
 				53909C431955CF7300EA86B2 /* Main.storyboard in Resources */,
+				53AF969A1964306E009909A8 /* Band Uniform.jpg in Resources */,
+				53084BE2196037E600A20251 /* Goofy Goober.jpg in Resources */,
+				53AF969419642DFF009909A8 /* Dennis Enemy.png in Resources */,
+				53AF969619642F25009909A8 /* Mindy.jpg in Resources */,
+				5302BE651961B71B00B48C7A /* Sandy Karate.jpg in Resources */,
+				53AF969E196437B7009909A8 /* Shell City.jpg in Resources */,
+				5302BE671961B9A100B48C7A /* Patrick Jellyfish Net.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -250,9 +345,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				538562AF195EDAF5007432B3 /* BPTileFactory.m in Sources */,
 				53909C461955CF7300EA86B2 /* BPViewController.m in Sources */,
 				53909C401955CF7300EA86B2 /* BPAppDelegate.m in Sources */,
+				538562A9195ED6FF007432B3 /* BPArmor.m in Sources */,
 				53909C3C1955CF7300EA86B2 /* main.m in Sources */,
+				538562A0195ED269007432B3 /* BPTile.m in Sources */,
+				538562A3195ED666007432B3 /* BPItem.m in Sources */,
+				538562A6195ED6BD007432B3 /* BPWeapon.m in Sources */,
+				538562B2195F1BFF007432B3 /* BPUtility.m in Sources */,
+				538562AC195ED86A007432B3 /* BPCharacter.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -457,6 +559,7 @@
 				53909C601955CF7400EA86B2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		53909C611955CF7400EA86B2 /* Build configuration list for PBXNativeTarget "Spongebob McPiratepantsTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +568,7 @@
 				53909C631955CF7400EA86B2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
